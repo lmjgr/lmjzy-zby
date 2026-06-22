@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-06-22 23:13:25,https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
+2026-06-23 07:11:42,http://198.204.240.250:82/live/cctv6.m3u8
 
 📺央视频道,#genre#
-CCTV-1,https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
 CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
 
 💰央视付费频道,#genre#
@@ -58,7 +57,6 @@ CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
 河南都市,http://1.94.31.214/php/hntv.php?id=hnds
 
 ☘️河北频道,#genre#
-河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 
 ☘️贵州频道,#genre#
 
@@ -93,7 +91,6 @@ CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-金鹰卡通,http://125.42.150.56:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎮游戏频道,#genre#
 
