@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-22 19:41:24,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+2026-07-23 06:53:10,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 
 📺央视频道,#genre#
 
@@ -20,7 +20,6 @@
 ☘️浙江频道,#genre#
 
 ☘️北京频道,#genre#
-北京新闻,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
 
 ☘️上海频道,#genre#
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
@@ -29,7 +28,6 @@
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
-镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 
 ☘️辽宁频道,#genre#
 
